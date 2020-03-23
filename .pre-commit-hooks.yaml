@@ -1,0 +1,5 @@
+- id: rstcheck
+  name: Run rstcheck
+  description: This hook runs rstcheck
+  entry: rstcheck.sh
+  language: script
